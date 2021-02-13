@@ -35,3 +35,9 @@
 
 Useful kali linux commands for find specific exploits using the shorthand of BASH environment.
 > `searchsploit "exploit_search_keywords" -w -t` - `-w`: For URL `-t`: For title.
+
+### WebApp Tools
+**CutyCapt**
+> `cutycapt --url=<url> --out=<output_format>` : CutyCapt is a small cross-platform command-line utility to capture WebKit's rendering of a web page into a variety of vector and bitmap formats, including SVG, PDF, PS, PNG, JPEG, TIFF, GIF, and BMP.
+
+
