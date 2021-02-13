@@ -29,3 +29,9 @@
 ### Security Headers
 - securityheaders.com
 
+### Exploit Discovery
+- ExploitDB
+- Rapid7
+
+Useful kali linux commands for find specific exploits using the shorthand of BASH environment.
+> `searchsploit "exploit_search_keywords" -w -t` - `-w`: For URL `-t`: For title.
