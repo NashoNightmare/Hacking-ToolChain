@@ -40,4 +40,11 @@ Useful kali linux commands for find specific exploits using the shorthand of BAS
 - **CutyCapt**
 > `cutycapt --url=<url> --out=<output_format>` : CutyCapt is a small cross-platform command-line utility to capture WebKit's rendering of a web page into a variety of vector and bitmap formats, including SVG, PDF, PS, PNG, JPEG, TIFF, GIF, and BMP.
 
+### Password Generators and Wordlists
+- Generate Password lists by twitter feed : `Tworfi`
+	Link : [https://digi.ninja/projects/twofi.php](https://digi.ninja/projects/twofi.php)
+
+- Linkedin Username Generator : `linkedin2username`
+	Link : [https://github.com/initstring/linkedin2username](https://github.com/initstring/linkedin2username)
+
 
